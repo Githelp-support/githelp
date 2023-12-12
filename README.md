@@ -1,6 +1,6 @@
 # Githelp Support for [Your Open Source Project]
 
-[![Githelp Logo](assets/Badge2_-_round_corners.svg)](https://githelp.com)
+[![Githelp Logo](assets/Badge2_-_round_corners.svg)](https://githelp.app/)
 
 ## What is Githelp?
 

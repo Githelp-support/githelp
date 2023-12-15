@@ -52,6 +52,8 @@ To integrate Githelp support into your open source project, follow these steps:
 
 For any questions or assistance, feel free to contact our support team at [hello@githelp.app](mailto:hello@githelp.app).
 
+or drop by our [Discord](https://discord.gg/MN6zX6xQ)
+
 Don't forget to leave a star ⭐️.
 
 [//]: # (TODO: Add a link to the terms of use and privacy policy)

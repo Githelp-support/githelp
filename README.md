@@ -23,8 +23,8 @@ seamlessly integrated with Discord.
 
 ## Get Started in Minutes
 
-**Create Your Repo Support Page:** Register your repo and create a customized support page in minutes. Provide users
-with information on how to get help, pricing details, and the ability to create support tickets.
+**Create Your Repo Support Page:** Register your repo and create a customized support page in minutes by sending us a message. 
+Provide users with information on how to get help, pricing details, and the ability to create support tickets.
 
 ## How It Works
 

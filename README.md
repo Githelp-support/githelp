@@ -21,6 +21,7 @@ feel more solid and reliable planning for long-term operations.
 
 ## What We Offer
 
+### For open source projects
 - **Effortless Support:** Easily schedule, receive payments, and gather reviews for your open source project.
 - **Community Focus:** We believe in the growth of open source. Earn a kickback for the support performed with your
   repo. Encourage your repo members to join the platform and get compensated for their support efforts.

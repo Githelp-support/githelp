@@ -17,15 +17,14 @@ seamlessly integrated with Discord.
 - **Effortless Support:** Easily schedule, receive payments, and gather reviews for your open source project.
 - **Community Focus:** We believe in the growth of open source. Earn a kickback for the support performed with your
   repo. Encourage your repo members to join the platform and get compensated for their support efforts.
+- **Receive Monthly Support Statistics:** Gain insights into user interactions with your service. Concentrate your
+   development efforts where it matters most by understanding how users are utilizing your support and where they may be
+   encountering challenges.  
 
 ## Get Started in Minutes
 
-1. **Create Your Repo Support Page:** Register your repo and create a customized support page in minutes. Provide users
-   with information on how to get help, pricing details, and the ability to create support tickets.
-
-2. **Receive Monthly Support Statistics:** Gain insights into user interactions with your service. Concentrate your
-   development efforts where it matters most by understanding how users are utilizing your support and where they may be
-   encountering challenges.
+**Create Your Repo Support Page:** Register your repo and create a customized support page in minutes. Provide users
+with information on how to get help, pricing details, and the ability to create support tickets.
 
 ## How It Works
 
@@ -44,7 +43,7 @@ seamlessly integrated with Discord.
 
 To integrate Githelp support into your open source project, follow these steps:
 
-1. Sign up on [Githelp](https://githelp.app/) and register your repository.
+1. Sign up on [Githelp](https://githelp.app/) and register your repository by sending us a message.
 2. Customize your repo support page to provide users with all the necessary information.
 3. Encourage your repo members to join Githelp to make their support efforts compensated.
 

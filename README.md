@@ -17,7 +17,7 @@ seamlessly integrated with Discord.
 - **Effortless Support:** Easily schedule, receive payments, and gather reviews for your open source project.
 - **Community Focus:** We believe in the growth of open source. Earn a kickback for the support performed with your
   repo. Encourage your repo members to join the platform and get compensated for their support efforts.
-- **Receive Monthly Support Statistics:** Gain insights into user interactions with your service. Concentrate your
+- **Monthly Support Statistics:** Gain insights into user interactions with your service. Concentrate your
    development efforts where it matters most by understanding how users are utilizing your support and where they may be
    encountering challenges.  
 

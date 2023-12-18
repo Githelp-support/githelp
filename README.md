@@ -22,12 +22,27 @@ feel more solid and reliable planning for long-term operations.
 ## What We Offer
 
 ### For open source projects
-- **Effortless Support:** Easily schedule, receive payments, and gather reviews for your open source project.
+- **Support put in system:** Easily schedule, receive payments, and gather reviews for your open source project.
 - **Community Focus:** We believe in the growth of open source. Earn a kickback for the support performed with your
   repo. Encourage your repo members to join the platform and get compensated for their support efforts.
 - **Monthly Support Statistics:** Gain insights into user interactions with your service. Concentrate your
    development efforts where it matters most by understanding how users are utilizing your support and where they may be
-   encountering challenges.  
+   encountering challenges.
+
+### For developers in need of support 
+- **Effortless Support:** Easily schedule, pay, and get help on the open source projects you are using.
+- **Sponsor while getting help:** It can be difficult to ask your employer to sponsor a repository you are using through donations.
+  With Githelp you support the open source projcts you like, while also getting help with the issues you encounter. As every repo earn
+  a kickback for the support performed with their project.
+- **More reliable support:** Don´t wait for your questions to be picked up in Discord support channels or at forums. Get help instantly. 
+  
+
+### For developers helping with support 
+- **Get Compensated:** There are multiple ways to provide support today without getting paid for it. However, our resarch show that most
+  developers would prefer to be compensated, and would be willing to spend more time on support if there was a compensation in place.
+- **Community Focus:** Help out the open source projects you like and give back to community, in a more sustainable way, where
+  your efforts are being compensated. 
+- **Clear and Transparent tickets:** Details about help wanted easily summarised in a concrete and structured way. 
 
 ## Get Started in Minutes
 

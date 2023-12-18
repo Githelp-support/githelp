@@ -49,7 +49,8 @@ feel more solid and reliable, planning for long-term operations.
 **Create Your Repo Support Page:** Register your repo and create a customized support page in minutes by sending us a message. 
 Provide users with information on how to get help, pricing details, and the ability to create support tickets.
 
-See how Githelp appears at the Github site of repositories such as [DJV](https://github.com/korzio/djv), [JsonHilo](https://github.com/xtao-org/jsonhilo), and [quasar-admin](https://github.com/pratik227/quasar-admin). Follow their Githelp-badge or -link to see their dedicated Githelp support-sites. 
+See how Githelp appears at the Github site of repositories such as [DJV](https://github.com/korzio/djv), [JsonHilo](https://github.com/xtao-org/jsonhilo), and [quasar-admin](https://github.com/pratik227/quasar-admin). 
+Follow their Githelp-badge or -link to see their dedicated Githelp support-sites. 
 
 ## How It Works
 

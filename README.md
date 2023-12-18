@@ -17,7 +17,7 @@ seamlessly integrated with Discord.
 Make open source prosjects competitve options to commercial cloud-based SaaS, by giving them a custom platform for providing
 professional support and receiving financial kickback from the support provided. We believe this will contribute in making it 
 easier for companies and organisations to put their faith in open source code, as the support system and help functions will 
-feel more solid and reliable planning for long-term operations. 
+feel more solid and reliable, planning for long-term operations. 
 
 ## What We Offer
 

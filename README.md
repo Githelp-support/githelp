@@ -12,6 +12,13 @@ seamlessly integrated with Discord.
     <img src="assets/Githelp.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
+## Our vision
+
+Make open source prosjects competitve options to commercial cloud-based SaaS, by giving them a custom platform for providing
+professional support and receiving financial kickback from the support provided. We believe this will contribute in making it 
+easier for companies and organisations to put their faith in open source code, as the support system and help functions will 
+feel more solid and reliable. 
+
 ## What We Offer
 
 - **Effortless Support:** Easily schedule, receive payments, and gather reviews for your open source project.

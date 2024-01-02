@@ -52,7 +52,7 @@ Provide users with information on how to get help, pricing details, and the abil
 **See how Githelp appears** on the Github site of repositories such as [DJV](https://github.com/korzio/djv), [JsonHilo](https://github.com/xtao-org/jsonhilo), and [quasar-admin](https://github.com/pratik227/quasar-admin). 
 Follow their Githelp-badge or -link to see their dedicated Githelp support-sites. 
 
-## How It Works
+## How it Works
 
 1. **Create a Ticket:**
     - Share some information about your issue.
@@ -65,7 +65,7 @@ Follow their Githelp-badge or -link to see their dedicated Githelp support-sites
 3. **Get Help:**
     - Choose your preferred way to receive support—chat, voice, or video.
 
-## Getting Started with Githelp
+## How to Get Started
 
 To integrate Githelp support into your open source project, follow these steps:
 

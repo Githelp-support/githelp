@@ -71,7 +71,7 @@ Follow their Githelp-badge or -link to see their dedicated Githelp support-sites
 
 To integrate Githelp support into your open source project, follow these steps:
 
-1. Sign up on [Githelp]([https://githelp.app/](https://githelp.app/repos)) or register your repository by sending us a message.
+1. Sign up on [Githelp](https://githelp.app/repos) or register your repository by sending us a message.
 2. Customise your repo support page to provide users with all the necessary information.
 3. Encourage your repo members to join Githelp to make their support efforts compensated.
 

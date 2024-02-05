@@ -12,9 +12,6 @@ as a URL in any desired channel.
     <img src="assets/Repo - landing page - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
-<p align="center">
-    <img src="assets/Githelp.png" alt="Githelp" width="700" style="border-radius: 12px"/>
-</p>
 
 ## Our vision
 

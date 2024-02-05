@@ -6,7 +6,11 @@
 
 [Githelp](https://githelp.app/) is a support service platform letting open source projects easily get a custom standalone 
 support site for their OSS project. The support site is set up for free, and can be integrated with Discord or distributed 
-as a URL in any desireed channel. 
+as a URL in any desired channel. 
+
+<p align="center">
+    <img src="assets/Repo - landing page - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
+</p>
 
 <p align="center">
     <img src="assets/Githelp.png" alt="Githelp" width="700" style="border-radius: 12px"/>

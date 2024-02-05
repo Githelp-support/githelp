@@ -5,8 +5,8 @@
 ## What is Githelp?
 
 [Githelp](https://githelp.app/) is a support service platform letting open source projects easily get a custom standalone 
-support site for their OSS project. The support site is set up for free, and can be integrated with Discord or distributed 
-as a URL in any desired channel. 
+support site for their OSS project. The support site is set up for free, provides all necessary infrastructure, gives a kickback 
+from all support provided, and can be integrated with Discord or distributed as a URL in any desired channel. 
 
 
 <p align="center">

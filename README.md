@@ -1,4 +1,4 @@
-# Githelp Support for [Your Open Source Project]
+# Githelp - Support for [Your Open Source Project]
 
 [![Githelp Logo](assets/Badge2_-_round_corners.svg)](https://githelp.app/)
 
@@ -24,7 +24,7 @@ feel more solid and reliable, when planning for long-term operations.
 ## What We Offer
 
 ### For open source projects
-- **Support Put in System:** Easily schedule, receive payments, and gather reviews for your open source project.
+- **Support Put in System:** Easily schedule, receive support payments, and gather support data for your open source project.
 - **Community Focus:** We believe in the growth of open source. Earn a kickback for the support performed with your
   repo. Encourage your repo members to join the platform and get compensated for their support efforts.
 - **Monthly Support Statistics:** Gain insights into user interactions with your service. Concentrate your
@@ -36,20 +36,20 @@ feel more solid and reliable, when planning for long-term operations.
 - **Sponsor While Getting Help:** It can be difficult to ask your employer to sponsor a repository you are using through donations.
   With Githelp you support the open source projcts you like, while also getting help with the issues you encounter. As every repo earn
   a kickback for the support performed with their project.
-- **More Reliable Support:** Don´t wait for your questions to be picked up in Discord support channels or at forums. Get help instantly. 
+- **Reliable Support:** Don´t wait for your questions to be picked up in Discord support channels or at forums. Get help instantly. 
   
 
 ### For developers helping with support 
 - **Get Compensated:** There are multiple ways to provide support today without getting paid for it. However, our resarch show that most
   developers would prefer to be compensated, and would be willing to spend more time on support if there was a compensation in place.
 - **Community Focus:** Help out the open source projects you like and give back to community, in a more sustainable way, where
-  your efforts are being compensated. 
+  your efforts are also being compensated. 
 - **Clear and Transparent Tickets:** Details about help wanted easily summarised in a concrete and structured way. 
 
 ## Get Started in Minutes
 
-**Create Your Repo Support Page:** Register your repo and create a customized support page in minutes by sending us a message. 
-Provide users with information on how to get help, pricing details, and the ability to create support tickets.
+**Create Your Repo Support Page:** Register your repo and create a customized support page in minutes. The page provides users with 
+information on how to get help, pricing details, and the ability to create support tickets.
 
 **See how Githelp appears** on the Github site of repositories such as [DJV](https://github.com/korzio/djv), [JsonHilo](https://github.com/xtao-org/jsonhilo), and [quasar-admin](https://github.com/pratik227/quasar-admin). 
 Follow their Githelp-badge or -link to see their dedicated Githelp support-sites. 
@@ -71,8 +71,8 @@ Follow their Githelp-badge or -link to see their dedicated Githelp support-sites
 
 To integrate Githelp support into your open source project, follow these steps:
 
-1. Sign up on [Githelp](https://githelp.app/) and register your repository by sending us a message.
-2. Customize your repo support page to provide users with all the necessary information.
+1. Sign up on [Githelp]([https://githelp.app/](https://githelp.app/repos)) or register your repository by sending us a message.
+2. Customise your repo support page to provide users with all the necessary information.
 3. Encourage your repo members to join Githelp to make their support efforts compensated.
 
 ## Support and Contact

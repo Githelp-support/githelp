@@ -13,7 +13,7 @@ as a URL in any desired channel.
     <img src="assets/Repo - landing page - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
-[Users of support](https://githelp.app/users)&nbsp;    [Providers of support](https://githelp.app/helpers)     [Business](https://githelp.app/businesses)     [Repository](https://githelp.app/repos) 
+[Users of support](https://githelp.app/users)&nbsp; &nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; &nbsp;[Business](https://githelp.app/businesses)&nbsp; &nbsp; &nbsp;[Repository](https://githelp.app/repos) 
 
 ## Our vision
 

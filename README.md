@@ -17,7 +17,7 @@ from all support provided, and can be integrated with Discord or distributed as 
 
 ## Our vision
 
-Make open source prosjects more competitve options to commercial cloud-based SaaS, by giving them a custom platform for providing
+Make open source projects more competitve options to commercial cloud-based SaaS, by giving them a custom platform for providing
 professional support and receiving financial kickback from the support provided. We believe this will contribute in making it 
 easier for companies and organisations to put their faith in open source code, as the support system and help functions will 
 feel more solid and reliable, when planning for long-term operations. 

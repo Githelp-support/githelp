@@ -17,7 +17,7 @@ community help and AI-support - all in one assistant - installed to Discord, the
 
 ## Our mission
 
-We are on a quest to enable easy, seamless and high-quality access to support without going outside the familiar communication channels already used 
+Enable easy, seamless and high-quality access to support without going outside the familiar communication channels already used 
 by businesses and repositories today. This means making support available from Discord, Slack and Github, in an intelligent and diversified manner. 
 
 ## What We Offer

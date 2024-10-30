@@ -22,27 +22,27 @@ by businesses and repositories today. This means making support available from D
 
 ## Why Githelp Might Be a Match
 
-### For repositories
+### For Repositories
 - **Support Set in System:** Install an assistant to your Discord server and/or get a dedicated support page for your repository,
   with scheduling, payments and ticket details all in one place.
 - **Earn a Commission:** We believe in the growth of open source. Earn a commission for the support performed with your
   repo. Encourage your repo members to join the platform and get compensated for their support efforts.
 - **Get Statistics and Insights:** We share statistics and insight about the support provided, helping you to prioritise your efforts. 
 
-### For businesses
+### For Businesses
 - **Core Team Support:** Get help from those who have developed the source code.
 - **Transparent and fair pricing:** No subscription cost and a low start price for every issue.
 - **Easy and simple to use:** Create a ticket in minutes, and get instant support if there are experts available for the OS project in
   question. 
 
-### For users of support 
+### For Users of Support 
 - **Core Team Support:** Get help from those who have developed the source code.
 - **Sponsor While Getting Help:** It can be difficult to ask your employer to sponsor a repository you are using through donations.
   With Githelp you support the open source projcts you like, while also getting help with the issues you encounter.
 - **Simple to Use:** Speed up your production and get past issues faster, while making it simple for your employer to make payments.
   
 
-### For providers of support 
+### For Providers of Support 
 - **Get Paid:** Help out the open source projects you like, and give back to community in a more sustainable way, where your efforts
   are also being compensated. 
 - **Easily Make Yourself Accessible:** We use Discord´s online status to see whether you are up for tasks.

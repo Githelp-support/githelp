@@ -8,13 +8,13 @@
 support site for their OSS project. The support site is set up for free, provides all necessary infrastructure, gives a kickback 
 from all support provided, and can be integrated with Discord or distributed as a URL in any desired channel. 
 
-<div style="text-align: center;" markdown="1">Hello
-
 <p align="center">
     <img src="assets/Repo - landing page - example 02 - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
+<p style="text-align:center;">
 [Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp;[Business](https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos)
+</p>
 
 ## Our vision
 

@@ -1,6 +1,8 @@
 # Githelp - Support for [Your Open Source Project]
 
-[![Githelp Logo](assets/Badge2_-_round_corners.svg)](https://githelp.app/)
+![Uploading Badge_Github - round corners.svg…]()
+<img width="220" alt="Badge2 - round corners" src="https://github.com/user-attachments/assets/15310757-3fdd-4f50-9395-0cab73fa22e6">
+
 
 ## What is Githelp?
 

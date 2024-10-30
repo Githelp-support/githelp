@@ -15,35 +15,38 @@ community help and AI-support - all in one assistant - installed to Discord, the
    [Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp; [Business (https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos)
     </p>
 
-## Our mission
+## Our Mission
 
 Enable easy, seamless and high-quality access to support without going outside the familiar communication channels already used 
 by businesses and repositories today. This means making support available from Discord, Slack and Github, in an intelligent and diversified manner. 
 
-## What We Offer
+## Why Githelp Might Be a Match
 
-### For open source projects
-- **Support Put in System:** Easily schedule, receive support payments, and gather support data for your open source project.
-- **Community Focus:** We believe in the growth of open source. Earn a kickback for the support performed with your
+### For repositories
+- **Support Set in System:** Install an assistant to your Discord server and/or get a dedicated support page for your repository,
+  with scheduling, payments and ticket details all in one place.
+- **Earn a Commission:** We believe in the growth of open source. Earn a commission for the support performed with your
   repo. Encourage your repo members to join the platform and get compensated for their support efforts.
-- **Monthly Support Statistics:** Gain insights into user interactions with your service. Concentrate your
-   development efforts where it matters most by understanding how users are utilizing your support and where they may be
-   encountering challenges.
+- **Get Statistics and Insights:** We share statistics and insight about the support provided, helping you to prioritise your efforts. 
 
-### For developers in need of support 
-- **Effortless Support:** Easily schedule, pay, and get help on the open source projects you are using.
+### For businesses
+- **Core Team Support:** Get help from those who have developed the source code.
+- **Transparent and fair pricing:** No subscription cost and a low start price for every issue.
+- **Easy and simple to use:** Create a ticket in minutes, and get instant support if there are experts available for the OS project in
+  question. 
+
+### For users of support 
+- **Core Team Support:** Get help from those who have developed the source code.
 - **Sponsor While Getting Help:** It can be difficult to ask your employer to sponsor a repository you are using through donations.
-  With Githelp you support the open source projcts you like, while also getting help with the issues you encounter. As every repo earn
-  a kickback for the support performed with their project.
-- **Reliable Support:** Don´t wait for your questions to be picked up in Discord support channels or at forums. Get help instantly. 
+  With Githelp you support the open source projcts you like, while also getting help with the issues you encounter.
+- **Simple to Use:** Speed up your production and get past issues faster, while making it simple for your employer to make payments.
   
 
-### For developers helping with support 
-- **Get Compensated:** There are multiple ways to provide support today without getting paid for it. However, our resarch show that most
-  developers would prefer to be compensated, and would be willing to spend more time on support if there was a compensation in place.
-- **Community Focus:** Help out the open source projects you like and give back to community, in a more sustainable way, where
-  your efforts are also being compensated. 
-- **Clear and Transparent Tickets:** Details about help wanted easily summarised in a concrete and structured way. 
+### For providers of support 
+- **Get Paid:** Help out the open source projects you like, and give back to community in a more sustainable way, where your efforts
+  are also being compensated. 
+- **Easily Make Yourself Accessible:** We use Discord´s online status to see whether you are up for tasks.
+- **Choose Which Tickets You Want to Pick:** Pick the tickets that suits your skill set and your calendar. 
 
 ## Get Started in Minutes
 

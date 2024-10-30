@@ -12,7 +12,7 @@ from all support provided, and can be integrated with Discord or distributed as 
 
 
 <p align="center">
-    <img src="assets/Repo - landing page - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
+    <img src="assets/Repo - landing page - example 02 - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
 [Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp;[Business](https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos) 

@@ -8,9 +8,6 @@
 support site for their OSS project. The support site is set up for free, provides all necessary infrastructure, gives a kickback 
 from all support provided, and can be integrated with Discord or distributed as a URL in any desired channel. 
 
-![Repo - landing page - example 02 - 1440](https://github.com/user-attachments/assets/a180598b-f4a2-47ea-8fe7-b12d1c3535fd)
-
-
 <p align="center">
     <img src="assets/Repo - landing page - example 02 - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>

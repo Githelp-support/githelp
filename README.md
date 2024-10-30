@@ -11,9 +11,7 @@ community help and AI-support - all in one assistant - installed to Discord, the
     <img src="assets/Repo - landing page - example 02 - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
-<p align="center">
-[Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp; [Business] (https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos)
-</p>
+<p align="center">[Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp; [Business] (https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos)</p>
 
 ## Our Mission
 

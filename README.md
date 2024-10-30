@@ -13,7 +13,7 @@ from all support provided, and can be integrated with Discord or distributed as 
 </p>
 
 <p align="center"> 
-    [Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp; [Business (https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos)
+   <[Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp; [Business (https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos)/>
     </p>
 
 ## Our vision

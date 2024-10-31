@@ -37,16 +37,13 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 
 ## How it Works for Users of Support
 
-1. **Create a Ticket:**
-    - Share some information about your issue.
-    - Shouldn't take more than 1-5 minutes.
+1. Pick a topic using our assistant, or [browse for repo](https://githelp.app/browse-repos) on our website.
+2. Explain your issue
+3. Get help from validated helpers, either by us or the repository´s core team.
 
-2. **Sip Some Coffee:**
-    - Submit information and wait for help.
-    - Get help instantly or schedule it for later.
-
-3. **Get Help:**
-    - Choose your preferred way to receive support—chat, voice, or video.
+<p align="center">
+    <img src="assets/Illustration_Search for topic.png" alt="Githelp" width="700" style="border-radius: 12px"/>
+</p>
 
 ## Support and Contact
 

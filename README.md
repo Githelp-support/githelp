@@ -37,7 +37,7 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 
 ## How it Works for Users of Support
 
-1. Pick a topic using our assistant, or [browse for repo](https://githelp.app/browse-repos) on our website.
+1. Pick a topic using our assistant, or [browse repos](https://githelp.app/browse-repos) on our website.
 2. Explain your issue
 3. Get help from validated helpers, either by us or the repository´s core team.
 

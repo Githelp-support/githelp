@@ -28,7 +28,7 @@ by businesses and repositories today. This means making support available from D
 
 To set up Githelp support for your open source project, follow these steps:
 
-1. Register your project on [Githelp](https://support.githelp.app/register).
+1. [Register](https://support.githelp.app/register) your project on Githelp.
 2. Choose to install our assistant to Discord and/or set up a custom support landing page for your particular project.
 3. Encourage your repo members to join Githelp to make their support efforts compensated.
 

@@ -24,10 +24,13 @@ community help and AI-support - all in one assistant - installed to Discord, the
 Enable easy, seamless and high-quality access to support without going outside the familiar communication channels already used 
 by businesses and repositories today. This means making support available from Discord, Slack and Github, in an intelligent and diversified manner. Read more about our mission [here](https://githelp.app/manifesto).
 
-## How to Get Started
+## How to Get Started for Repositories
 
-**Create Your Repo Support Page:** Register your repo and create a customized support page in minutes. The page provides users with 
-information on how to get help, pricing details, and the ability to create support tickets.
+To set up Githelp support for your open source project, follow these steps:
+
+1. Register your project on [Githelp](https://support.githelp.app/register).
+2. Choose to install our assistant and/or set up a custom support landing page for your particular project.
+3. Encourage your repo members to join Githelp to make their support efforts compensated.
 
 **See how Githelp appears** on the Github site of repositories such as [DJV](https://github.com/korzio/djv), [JsonHilo](https://github.com/xtao-org/jsonhilo), and [quasar-admin](https://github.com/pratik227/quasar-admin). 
 Follow their Githelp-badge or -link to see their dedicated Githelp support-sites. 

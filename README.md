@@ -26,7 +26,7 @@ community help and AI-support - all in one assistant - installed to Discord, the
 ## Our Mission
 
 Enable easy, seamless and high-quality access to support without going outside the familiar communication channels already used 
-by businesses and repositories today. This means making support available from Discord, Slack and Github, in an intelligent and diversified manner. Read more about our mission and the idea behind the project [here](https://githelp.app/manifesto).
+by repositories and businesses today. This means making support available from Discord, Slack and Github, in an intelligent and diversified manner. Read more about our mission and the idea behind the project [here](https://githelp.app/manifesto).
 
 ## How to Get Started for Repositories
 

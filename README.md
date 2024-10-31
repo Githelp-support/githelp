@@ -4,7 +4,7 @@
 
 ## What is Githelp?
 
-[Githelp](https://githelp.app/) is a support service platform that lets owners of open source software easily provide their users with expert help, 
+[Githelp](https://githelp.app/) is a support infrastructure platform that lets owners of open source software easily provide their users with expert help, 
 community help and AI-support - all in one assistant - installed to Discord, their users´ Slack or through our website.  
 
 <p align="center">
@@ -14,6 +14,13 @@ community help and AI-support - all in one assistant - installed to Discord, the
 <p align="center">
     [Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp; [Business] (https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos)
 </p>
+
+<p align="center">
+  <a href="https://link1.com">Link 1</a> •
+  <a href="https://link2.com">Link 2</a> •
+  <a href="https://link3.com">Link 3</a>
+</p>
+
 
 ## Our Mission
 

@@ -7,6 +7,8 @@
 [Githelp](https://githelp.app/) is a support infrastructure platform that lets owners of open source software easily provide their users with expert help, 
 community help and AI-support - all in one assistant - installed to Discord, their users´ Slack or through our website.  
 
+<br>
+
 <p align="center">
     <img src="assets/Repo - landing page - example - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
@@ -41,7 +43,7 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 2. Explain your issue
 3. Get help from validated helpers. Validated by either us or the repository´s core team.
 
-<br><br>
+<br>
 
 <p align="center">
     <img src="assets/Illustration_Search for topic.png" alt="Githelp" width="700" style="border-radius: 12px"/>

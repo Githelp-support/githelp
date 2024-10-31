@@ -12,10 +12,6 @@ community help and AI-support - all in one assistant - installed to Discord, the
 </p>
 
 <p align="center">
-    [Users of support](https://githelp.app/users)&nbsp; &nbsp; |&nbsp; &nbsp;[Providers of support](https://githelp.app/helpers)&nbsp; &nbsp; |&nbsp; &nbsp; [Business] (https://githelp.app/businesses)&nbsp; &nbsp; |&nbsp; &nbsp;[Repository](https://githelp.app/repos)
-</p>
-
-<p align="center">
   <a href="https://githelp.app/repository">Repository</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="https://githelp.app/providerofsupport">Provider of Support</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="https://githelp.app/business">Business</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

@@ -22,37 +22,9 @@ community help and AI-support - all in one assistant - installed to Discord, the
 ## Our Mission
 
 Enable easy, seamless and high-quality access to support without going outside the familiar communication channels already used 
-by businesses and repositories today. This means making support available from Discord, Slack and Github, in an intelligent and diversified manner. 
+by businesses and repositories today. This means making support available from Discord, Slack and Github, in an intelligent and diversified manner. Read more about our mission [here](https://githelp.app/manifesto).
 
-## Why Githelp Might Be a Match
-
-### For Repositories
-- **Support Set in System:** Install an assistant to your Discord server and/or get a dedicated support page for your repository,
-  with scheduling, payments and ticket details all in one place.
-- **Earn a Commission:** We believe in the growth of open source. Earn a commission for the support performed with your
-  repo. Encourage your repo members to join the platform and get compensated for their support efforts.
-- **Get Statistics and Insights:** We share statistics and insight about the support provided, helping you to prioritise your efforts. 
-
-### For Businesses
-- **Core Team Support:** Get help from those who have developed the source code.
-- **Transparent and fair pricing:** No subscription cost and a low start price for every issue.
-- **Easy and simple to use:** Create a ticket in minutes, and get instant support if there are experts available for the OS project in
-  question. 
-
-### For Users of Support 
-- **Core Team Support:** Get help from those who have developed the source code.
-- **Sponsor While Getting Help:** It can be difficult to ask your employer to sponsor a repository you are using through donations.
-  With Githelp you support the open source projcts you like, while also getting help with the issues you encounter.
-- **Simple to Use:** Speed up your production and get past issues faster, while making it simple for your employer to make payments.
-  
-
-### For Providers of Support 
-- **Get Paid:** Help out the open source projects you like, and give back to community in a more sustainable way, where your efforts
-  are also being compensated. 
-- **Easily Make Yourself Accessible:** We use Discord´s online status to see whether you are up for tasks.
-- **Choose Which Tickets You Want to Pick:** Pick the tickets that suits your skill set and your calendar. 
-
-## Get Started in Minutes
+## How to Get Started
 
 **Create Your Repo Support Page:** Register your repo and create a customized support page in minutes. The page provides users with 
 information on how to get help, pricing details, and the ability to create support tickets.

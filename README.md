@@ -4,9 +4,6 @@
   <img src="assets/Badge02 - round corners.svg" alt="Githelp badge" width="230">
 </p>
 
-
-<img width="220" alt="Badge_Githelp - round corners" src="https://github.com/user-attachments/assets/027ac1e3-f7dc-434e-9dd8-8bc3db7bad43">
-
 ## What is Githelp?
 
 [Githelp](https://githelp.app/) is a support infrastructure platform that lets owners of open source software easily provide their users with expert help, 

@@ -32,8 +32,8 @@ To set up Githelp support for your open source project, follow these steps:
 2. Choose to install our assistant and/or set up a custom support landing page for your particular project.
 3. Encourage your repo members to join Githelp to make their support efforts compensated.
 
-**See how Githelp appears** on the Github site of repositories such as [DJV](https://github.com/korzio/djv), [JsonHilo](https://github.com/xtao-org/jsonhilo), and [quasar-admin](https://github.com/pratik227/quasar-admin). 
-Follow their Githelp-badge or -link to see their dedicated Githelp support-sites. 
+**See how Githelp appears** on the Github site of for example [Cratis](https://github.com/Cratis/Chronicle). 
+Follow their Githelp-badge to see their dedicated Githelp support-site. 
 
 ## How it Works for Users of Support
 

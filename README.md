@@ -8,7 +8,7 @@
 community help and AI-support - all in one assistant - installed to Discord, their users´ Slack or through our website.  
 
 <p align="center">
-    <img src="assets/Repo - landing page - example 02 - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
+    <img src="assets/Repo - landing page - example - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
 <p align="center">

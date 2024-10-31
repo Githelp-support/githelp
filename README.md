@@ -1,7 +1,7 @@
 # Githelp - Support for [Your Open Source Project]
 
 <p align="left">
-  <img src="assets/Badge02 - round corners.svg" alt="Githelp badge" width="200">
+  <img src="assets/Badge02 - round corners.svg" alt="Githelp badge" width="230">
 </p>
 
 

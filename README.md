@@ -16,9 +16,10 @@ community help and AI-support - all in one assistant - installed to Discord, the
 </p>
 
 <p align="center">
-  <a href="https://githelp.app/userofsupport">User of Support</a> •
-  <a href="https://link2.com">Link 2</a> •
-  <a href="https://link3.com">Link 3</a>
+  <a href="https://githelp.app/repository">Repository</a> |
+  <a href="https://githelp.app/providerofsupport">Provider of Support</a> |
+  <a href="https://githelp.app/business">Business</a> |
+    <a href="https://githelp.app/userofsupport">User of Support</a> |
 </p>
 
 

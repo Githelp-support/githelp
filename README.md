@@ -41,6 +41,8 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 2. Explain your issue
 3. Get help from validated helpers. Validated by either us or the repository´s core team.
 
+<br><br>
+
 <p align="center">
     <img src="assets/Illustration_Search for topic.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>

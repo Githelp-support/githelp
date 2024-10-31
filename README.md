@@ -53,7 +53,7 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 
 For any questions or assistance, feel free to contact our support team at [hello@githelp.app](mailto:hello@githelp.app).
 
-or drop by our [Discord](https://discord.gg/MN6zX6xQ)
+or drop by our [Discord](https://discord.gg/KyVs6C9T5T)
 
 Don't forget to leave a star ⭐️.
 

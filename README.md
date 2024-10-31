@@ -39,7 +39,7 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 
 1. Pick a topic using our assistant, or [browse repos](https://githelp.app/browse-repos) on our website.
 2. Explain your issue
-3. Get help from validated helpers, either by us or the repository´s core team.
+3. Get help from validated helpers. Validated by either us or the repository´s core team.
 
 <p align="center">
     <img src="assets/Illustration_Search for topic.png" alt="Githelp" width="700" style="border-radius: 12px"/>

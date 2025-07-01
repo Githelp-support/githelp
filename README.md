@@ -1,4 +1,4 @@
-# Githelp - Support for [Your Open Source Project]
+# Githelp - Enable paid support for [Your Open Source Project | Business]
 
 <p align="left">
   <img src="assets/Badge02 - round corners.svg" alt="Githelp badge" width="230">
@@ -6,8 +6,8 @@
 
 ## What is Githelp?
 
-[Githelp](https://githelp.app/) is a support infrastructure platform that lets owners of open source software easily provide their users with expert help, 
-community help and AI-support - all in one assistant - installed to Discord, their users´ Slack or through our website.  
+[Githelp](https://githelp.app/) is a support infrastructure platform that enables projects the possibility to provide paid support, engage your community in the support efforts, discover talent within your community while providing your users with expert help, 
+community help and AI-support - with integrations you can install on Discord, Slack and more.  
 
 <br>
 
@@ -25,7 +25,7 @@ community help and AI-support - all in one assistant - installed to Discord, the
 
 ## Our Mission
 
-Enable easy, seamless and high-quality access to support without going outside the familiar communication channels already used 
+ easy, seamless and high-quality access to support without going outside the familiar communication channels already used 
 by repositories and businesses today. This means making support available from Discord, Slack and Github, in an intelligent and diversified manner. Read more about our mission and the idea behind the project [here](https://githelp.app/manifesto).
 
 ## How to Get Started for Repositories
@@ -41,7 +41,7 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 
 ## How it Works for Users of Support
 
-1. Pick a topic using our assistant, or [browse repos](https://githelp.app/browse-repos) on our website.
+1. The user is directed to your dedicated support page from existing channels.
 2. Explain your issue
 3. Get help from validated helpers, validated by either us or the repository´s core team.
 

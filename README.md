@@ -61,13 +61,13 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 ## How it Works for Users of Support
 
 1. The user is directed to your dedicated support page from existing channels.
-2. Explain your issue
-3. Get help from validated helpers, validated by either us or the repository´s core team.
+2. Explains their issue.
+4. Gets help from helpers validated by your team.
 
 <br>
 
 <p align="center">
-    <img src="assets/Illustration_Search for topic.png" alt="Githelp" width="700" style="border-radius: 12px"/>
+    <img src="assets/Repo - Chat-window - User - question.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
 ## Support and Contact

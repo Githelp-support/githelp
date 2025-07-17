@@ -52,7 +52,7 @@ A helper is someone who contributes in the support efforts. This can be an exter
 
 To set up Githelp support for your open source project, follow these steps:
 
-1. [Become a beta user]([https://support.githelp.app/register](https://githelp.app/become-a-beta-user)) (special benefits provided for beta participants)
+1. [Become a beta user](https://githelp.app/become-a-beta-user) (special benefits provided for beta participants)
 2. Fill out the form to get started.
 
 **See how Githelp appears** on the Github site of for example [Cratis Chronicle](https://github.com/Cratis/Chronicle). 
@@ -67,7 +67,7 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 <br>
 
 <p align="center">
-    <img src="assets/Repo - Chat-window - User - question.png" alt="Githelp" width="700" style="border-radius: 12px"/>
+    <img src="assets/Repo - Chat-window - User - question x2.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
 ## Support and Contact

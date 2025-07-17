@@ -10,11 +10,11 @@
 
 As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support. In the coming times it will become more and more important to have experts in specific fields that can help users where AI does not yet suffice.
 
--Engage your community and discover talent within your community while providing your users with expert help.
--Provide the possibility for businesses to support your project through paid support.
--Provide Support-Level agreements to your users so they can feel confident about using your product.
--Free for open-source projects (For businesses the first 1 year is free and there is no per-seat costs). There is however a reasonable service charge per transaction made through the platform.
--Integrations for Discord, Slack and more.
+- Engage your community and discover talent within your community while providing your users with expert help.
+- Provide the possibility for businesses to support your project through paid support.
+- Provide Support-Level agreements to your users so they can feel confident about using your product.
+- Free for open-source projects (For businesses the first 1 year is free and there is no per-seat costs). There is however a reasonable service charge per transaction made through the platform.
+- Integrations for Discord, Slack and more.
 
 <br>
 

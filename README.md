@@ -19,7 +19,7 @@ As only a fraction of businesses contribute to open-source through donations or 
 <br>
 
 <p align="center">
-    <img src="assets/Repo - landing page - example - 1440.png" alt="Githelp" width="700" style="border-radius: 12px"/>
+    <img src="assets/Repo - landing page - Get support.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
 <p align="center">

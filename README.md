@@ -1,4 +1,4 @@
-# Githelp - Enable paid support for [Your Open Source Project | Business]
+# Githelp - Support solutions for [Your Open Source Project | Business]
 
 <p align="left">
   <img src="assets/Badge02 - round corners.svg" alt="Githelp badge" width="230">

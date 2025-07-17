@@ -24,6 +24,7 @@ As only a fraction of businesses contribute to open-source through donations or 
 
 <p align="center">
   <a href="https://githelp.app">Learn more</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="https://githelp.app/#takeatour">Take a tour</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="https://githelp.app/open-source">Open Source</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="https://githelp.app/business">Business</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="https://githelp.app/sla">SLAs</a> 
@@ -34,14 +35,14 @@ As only a fraction of businesses contribute to open-source through donations or 
 
 Our mission is to make it easier for developers to access and compensate quality support while encouraging businesses to contribute more to Open Source through paid support and improve community engagement and benefits. Read more about our mission and the idea behind the project [here](https://githelp.app/manifesto).
 
-## Want to know how it works? Take our tour!
+## Take our tour to see how it works
 
-We have provided tours from the perspective of various user-groups. Please feel free to have a look at our tours to better understand the value and where Githelp fits into your project.
+We have provided tours from the perspective of various user-groups. Please feel free to have a look at our tours to better understand the value of the platform and where Githelp fits into your project.
 
 Take tour as...
-<a href="https://githelp.app">Project Owner</a>
-<a href="https://githelp.app">Helper</a>
-<a href="https://githelp.app">User</a>
+- <a href="https://githelp.app">Project Owner</a>
+- <a href="https://githelp.app">Helper</a>
+- <a href="https://githelp.app">User</a>
 
 ## What are helpers?
 

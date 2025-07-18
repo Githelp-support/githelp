@@ -10,8 +10,8 @@
 
 1. Easily provide paid support to users.
 2. Seemlessly engage the community in support efforts.
-3. Providing businesses greater trust in your products through Support-Level agreements and the accessibility of support.
-4. Enable businesses to support your project through paid support.
+3. Enable businesses to support your project through paid support.
+4. Providing businesses greater trust in your products through Support-Level agreements and the accessibility of support.
 
 As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support. In the coming times it will become more and more important to have experts in specific fields that can help users where AI does not yet suffice.
 

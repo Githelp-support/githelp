@@ -13,7 +13,7 @@
 3. Enable businesses to support your project through paid support.
 4. Providing businesses greater trust in your products through Support-Level agreements and the accessibility of support.
 
-As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support. As AI is becoming more prevalent the need for experts in specific fields is important to cover areas where AI does not yet suffice.
+As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support.
 
 <br>
 
@@ -68,6 +68,10 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 <p align="center">
     <img src="assets/Repo - Chat-window - User - question x2.png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
+
+## Why not only AI support?
+
+AI is the first support-line to answer user questions however, not all problems can or should be solved by AI and might need your teams expertise. We believe expert knowledge is important to cover areas where AI does not yet suffice. AI development powered by niche experts.
 
 ## Other notes
 

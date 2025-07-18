@@ -6,7 +6,11 @@
 
 ## What is Githelp?
 
-[Githelp](https://githelp.app/) is a free-to-use (for open-source) support infrastructure platform that solves 3 major problems. Providing the possibility to easily provide paid support to users, the possibility to seemlessly engage the community in support efforts and providing businesses greater trust in your products through Support-Level agreements and the accessibility of support.
+[Githelp](https://githelp.app/) is a free-to-use (for open-source) support infrastructure platform that solves 3 major problems. 
+
+1. Easily provide paid support to users.
+2. Seemlessly engage the community in support efforts.
+3. Providing businesses greater trust in your products through Support-Level agreements and the accessibility of support.
 
 As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support. In the coming times it will become more and more important to have experts in specific fields that can help users where AI does not yet suffice.
 

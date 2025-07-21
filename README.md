@@ -66,7 +66,7 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 <br>
 
 <p align="center">
-    <img src="assets/Repo - Chat-window - User - question x2.png" alt="Githelp" width="700" style="border-radius: 12px"/>
+    <img src="assets/Repo - Chat-window - User - question (SLA).png" alt="Githelp" width="700" style="border-radius: 12px"/>
 </p>
 
 ## Why not only AI support?

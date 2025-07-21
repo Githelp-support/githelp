@@ -32,7 +32,7 @@ As only a fraction of businesses contribute to open-source through donations or 
 
 ## Our Mission
 
-Our mission is to make it easier for developers to access and compensate quality support. We believe this will help funding great OS (and closed source) projects, and improve community engagement and benefits for those who help out. Read more about our mission and the idea behind the project [here](https://githelp.app/manifesto).
+Our mission is to make it easier for developers to access and compensate quality support. We believe this will help funding great OS (and closed source) projects, and improve community engagement and benefits for those who help out. 
 
 ## Take our tours to see how it works
 

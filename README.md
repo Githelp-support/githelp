@@ -32,7 +32,7 @@ As only a fraction of businesses contribute to open-source through donations or 
 
 ## Our Mission
 
-Our mission is to make it easier for developers to access and compensate quality support. And make it easier for project owners and contributors to offer and get compensated for any support given. 
+Our mission is to make it easier for developers to access and compensate quality support. And at the same time make it easier for project owners and contributors to offer and get compensated for any support given. 
 
 We believe this can accelerate and help with funding for great OS (and closed source) projects, while improving community engagement and benefits for those who help out.
 

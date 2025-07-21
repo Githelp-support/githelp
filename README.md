@@ -8,10 +8,10 @@
 
 [Githelp](https://githelp.app/) is a free-to-use (for open-source) support infrastructure platform with the following main features: 
 
-1. Easily provide paid support to users.
-2. Seemlessly engage the community in support efforts.
-3. Enable businesses to support your project through paid support.
-4. Providing businesses with greater trust in your products through Support-Level agreements and the general accessibility of support.
+1. Easily provide paid support to your users.
+2. Seemlessly engage your community in support efforts - through automated payouts from support.
+3. Control your pricing model and reach - Set your own rates (from 0 and upwards) and decide where to distribute your support landing page. 
+4. Provide businesses with greater trust in your products through Support-Level agreements and the general accessibility of support.
 
 As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support.
 

@@ -11,7 +11,7 @@
 1. Easily provide paid support to your users.
 2. Seemlessly engage your community in support efforts - through automated payouts from support.
 3. Control your pricing model and reach - Set your own rates (from 0 and upwards) and decide where to distribute your support landing page. 
-4. Provide businesses with greater trust in your products through Support-Level agreements and the general accessibility of support.
+4. Provide businesses with greater trust in your products through Support-Level Agreements and the general accessibility of support.
 
 As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support.
 
@@ -32,11 +32,11 @@ As only a fraction of businesses contribute to open-source through donations or 
 
 ## Our Mission
 
-Our mission is to make it easier for developers to access and compensate quality support while encouraging businesses to contribute more to Open Source through paid support and improve community engagement and benefits. Read more about our mission and the idea behind the project [here](https://githelp.app/manifesto).
+Our mission is to make it easier for developers to access and compensate quality support. We believe this will help funding great OS (and closed source) projects, and improve community engagement and benefits for those who help out. Read more about our mission and the idea behind the project [here](https://githelp.app/manifesto).
 
-## Take our tour to see how it works
+## Take our tours to see how it works
 
-We have provided tours from the perspective of various user-groups. Please feel free to have a look at our tours to better understand the value of the platform and where Githelp fits into your project.
+We have created tours from the perspective of various user-groups. Please feel free to have a look at our tours to better understand the value of the platform and where Githelp fits into your project.
 
 Take tour as...
 - <a href="https://githelp.app">Project Owner</a>
@@ -45,7 +45,7 @@ Take tour as...
 
 ## What are helpers?
 
-A helper is someone who contributes in the support efforts. This can be an external person or someone within your team, Githelp supports both and we also encourage both approaches so you can get your community involved and discover talent. We provide infrastructure for payments so you don't have to worry about it. Whenever support is provided the payment will be split according to your configuration between the helper, your project and Githelp (service-fee).
+A helper is someone who contributes in the support efforts. This can be an external person or someone within your team. Githelp supports both helper types and we also encourage both approaches so you can build flexible teams, get your community involved and discover new talent. We provide infrastructure for payments so you don't have to worry about it. Whenever support is provided the payment will be split according to your configuration between the helper, your project and Githelp (service-fee).
 
 ## How to Get Started for Repositories
 
@@ -59,9 +59,9 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 
 ## How it Works for Users of Support
 
-1. The user is directed to your dedicated support page from existing channels.
-2. Explains their issue.
-4. Gets help from helpers validated by your team.
+1. The user is directed to your dedicated support page from existing channels - such as your Discord, your website, or your Slack.
+2. The user explains their issue.
+4. The user gets help from helpers validated by your team.
 
 <br>
 
@@ -71,12 +71,12 @@ Follow their Githelp-badge to see their dedicated Githelp support-site.
 
 ## Why not only AI support?
 
-AI is the first support-line to answer user questions however, not all problems can or should be solved by AI and might need your teams expertise. We believe expert knowledge is important to cover areas where AI does not yet suffice. AI development powered by niche experts.
+AI will for many be the first support-line to answer user questions. However, not all problems can or should be solved by AI and might need your teams´ expertise. We believe expert knowledge is important to cover areas where AI does not yet suffice. AI development powered by niche experts.
 
 ## Other notes
 
 - Integrations for Discord, Slack and more.
-- Free for open-source projects (For businesses the first 1 year is free and there is no per-seat costs). There is however a reasonable service charge per transaction made through the platform.
+- Completely free for open source projects and businesses for the first 12 months after launch. Githelp will in this period only charge the Stripe fee when carrying out paid support transactions. After 12 months open source projects will be charged a commission fee per transaction, whereas businesses will be charged subscription fee. 
 
 ## Support and Contact
 

@@ -1,4 +1,4 @@
-# Githelp - Support solutions for [Your Open Source Project | Business]
+# Githelp - Sustainable support for [Your Open Source Project]
 
 <p align="left">
   <img src="assets/Badge02 - round corners.svg" alt="Githelp badge" width="230">

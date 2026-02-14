@@ -36,6 +36,13 @@ Our mission is to make it easier for developers to access and compensate quality
 
 We believe this can accelerate and help with funding for great OS (and closed source) projects, while improving community engagement and benefits for those who help out.
 
+## How to Get Started
+
+To set up Githelp support, follow these steps:
+
+1. [Become a beta user](https://githelp.app/become-a-beta-user) (special benefits provided for beta participants)
+2. Fill out the form to get started.
+
 ## Take our tours to see how it works
 
 We have created tours from the perspective of various user-groups. Please feel free to have a look at our tours to better understand the value of the platform and where Githelp fits into your project.
@@ -47,14 +54,7 @@ Take tour as...
 
 ## What are helpers?
 
-A helper is someone who contributes in the support efforts. This can be an external person or someone within your team. Githelp supports both helper types and we also encourage both approaches so you can build flexible teams, get your community involved and discover new talent. We provide infrastructure for payments so you don't have to worry about it. Whenever support is provided the payment will be split according to your configuration between the helper, your project and Githelp (service-fee).
-
-## How to Get Started for Repositories
-
-To set up Githelp support for your open source project, follow these steps:
-
-1. [Become a beta user](https://githelp.app/become-a-beta-user) (special benefits provided for beta participants)
-2. Fill out the form to get started.
+A helper is someone who contributes in the support efforts. This can be an external person or someone within your team. Githelp supports both helper types and we also encourage both approaches so you can build flexible hybrid teams, get your community involved and discover new talent. We provide infrastructure for payments so you don't have to worry about it. Whenever support is provided the payment will be split according to your configuration between the helper, your project and Githelp (service-fee, currently we take no fee for open source projects).
 
 **See how Githelp appears** on the Github site of for example [Cratis Chronicle](https://github.com/Cratis/Chronicle). 
 Follow their Githelp-badge to see their dedicated Githelp support-site. 

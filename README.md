@@ -84,8 +84,6 @@ AI will for many be the first support-line to answer user questions. However, no
 
 For any questions or assistance, feel free to contact our support team at [hello@githelp.app](mailto:hello@githelp.app).
 
-or drop by our [Discord](https://discord.gg/KyVs6C9T5T)
-
 Don't forget to leave a star ⭐️.
 
 [//]: # (TODO: Add a link to the terms of use and privacy policy)

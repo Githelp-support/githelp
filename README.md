@@ -13,7 +13,7 @@
 3. Control your pricing model and reach - Set your own rates (from 0 and upwards) and decide where to distribute your support landing page. 
 4. Provide businesses with greater trust in your products through Support-Level Agreements and the general accessibility of support.
 
-As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support.
+As only a fraction of businesses contribute to open-source through donations or PRs, we want to enable businesses to give back to projects they care about in the form of paid support. Read more about how we see the problem [here](https://githelp.app/the-problem).
 
 <br>
 

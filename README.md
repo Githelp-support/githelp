@@ -24,7 +24,6 @@ As only a fraction of businesses contribute to open-source through donations or 
 <p align="center">
   <a href="https://githelp.app">Learn more</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="https://githelp.app/#takeatour">Take a tour</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="https://githelp.app/open-source">Open Source</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="https://githelp.app/business">Business</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="https://githelp.app/sla">SLAs</a> 
 </p>

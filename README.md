@@ -77,7 +77,7 @@ AI will for many be the first support-line to answer user questions. However, no
 ## Other notes
 
 - Integrations for Discord, Slack and more.
-- Completely free for open source projects and businesses for the first 12 months after launch. Githelp will in this period only charge the Stripe fee when carrying out paid support transactions. After 12 months open source projects will be charged a commission fee per transaction, whereas businesses will be charged subscription fee. 
+- Completely free for open source projects and businesses for the first 12 months after launch. Githelp will in this period only charge the Stripe fee when carrying out paid support transactions. After 12 months open source projects will be charged a commission fee per transaction, whereas businesses will be charged a subscription fee. 
 
 ## Support and Contact
 
